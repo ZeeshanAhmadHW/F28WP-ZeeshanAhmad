@@ -1,2 +1,3 @@
-# F28WP-ZeeshanAhmad
-Repository used for F28WP lab
+# F28WP-lab1
+
+This is a read me file
